@@ -1,0 +1,2 @@
+# Map and Weather
+Se le pide al usuario que ingrese una ubicacion y con ayuda que el autocompletado de la API de google maps muestra en el mapa el lugar deseado y dice el clima de dicho lugar con ayuda de la otra API de la pagina de Open-Meteo
